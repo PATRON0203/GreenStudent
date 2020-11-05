@@ -1,0 +1,171 @@
+@charset "UTF-8";
+
+.header {
+	background: radial-gradient(#F2B9A1, #EA6264) fixed;
+	height: 50px;
+}
+
+.title {
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 0px;
+}
+
+.navleft {
+	float: left;
+	margin-right: 30px;
+	margin-top: 15px;
+}
+
+.navright {
+	float: right;
+	margin-right: 30px;
+	margin-top: 15px;
+}
+
+.container{
+	padding-top: 46px;
+	padding-bottom: 32px;
+	width: 1260px;
+	margin-right:auto;
+	margin-left:auto;
+	padding-right:10px;
+	padding-left:10px;
+	
+}
+
+.subTitle{
+	margin-bottom: 60px;
+	position: relative;
+}
+
+.content{
+	margin-top: 50px;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+.login{
+	padding-left: 10px;
+	float:left;
+	width:40%;
+	padding: 30px 28px;
+	border: solid 1px #ccc;
+	font-size: 13px;
+	line-height: 20px;
+	margin-botton: 40px;
+}
+
+.xs-12{
+	width: 100%;
+	float: left;
+	postion: relative;
+	min-height: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.logbutton{
+}
+
+.newlogin{
+	padding-left: 20px;
+	width: 40%;
+	float: left;
+	position: relative;
+	min-height: 1px;
+	padding-right: 10px;
+}
+
+.dashbox{
+	padding: 30px 28px;
+	border: solid 1px #ccc;
+	font-size: 13px;
+	line-height: 20px;
+	margin-bottom: 40px;
+}
+
+.row{
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+.cmp-button--fillback{
+	color: #fff;
+	background: #010101;
+	border-color: #010101;
+	foint-weight: 600;
+	letter-spacing: .4px;
+	height: 44px;
+	display: inline-flex;
+	align-items: center;
+}
+
+.cmp-button--md{
+	padding: 0 19px;
+	min-width: 180px;
+	min-height: 50px;
+	fons-size: 12px;
+	line-height: 12px;
+}
+
+.cmp-button{
+	text-transform: uppercase;
+	text-decoration: none;
+	filter: none;
+	border-radius: 0;
+	transition-property: color,border-color,background-color;
+	transition-duration: .5s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	outline:0;
+	margin:0;
+}
+
+.btn{
+	text-align: center;
+	vertical-align: middle;
+	touch-action: manipulation;
+	cursor: pointer;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	user-select: none;
+}
+
+fieldset{
+	max-width: 400px;
+	border: none;
+	padding: 0;
+	margin: 0;
+	display: block;
+	margin-inline-start: 2px;
+	margin-inline-end: 2px;
+	padding-block-start: 0.35em;
+	padding-inline-start: 0.75em;
+	padding-inline-end: 0.75em;
+	padding-block-end: 0.625em;
+	min-inlin-size: min-content;
+}
+
+input{
+	overflow: visible;
+	margin: 0;
+}
+
+button{
+	overflow: visible;
+	text-redering: auto;
+	word-spacing: normal;
+	text-indent: 0px;
+	text-shadow: none;
+	-webkit-appearance: button;
+}
+
+div{
+	display: block;
+}

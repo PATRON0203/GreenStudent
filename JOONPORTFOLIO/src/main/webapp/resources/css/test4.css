@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+.topheader{
+	height: 20px;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.topheaderleft {
+	float: left;
+}
+
+.topheaderright{
+	float: right;
+	
+}
+
+.header {
+	clear: both;
+	border: 1px solid black;
+	height: 50px;
+	position: sticky;
+}
+
+.title {
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 0px;
+}
+
+.navnewitem {
+	float: left;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navwomenitem {
+	float: left;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navmenitem {
+	float: left;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navcollection {
+	float: left;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navlogin {
+	float: right;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navwish {
+	float: right;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navbaging {
+	float: right;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.mainimg{
+	position: relative;
+	width: 100%;
+	height: 600px;	
+	border: 1px solid black;
+	bottom: 115px;
+	text-align: center;
+}
+
+.menclothing{
+	width: 60%;
+	height: 500px;
+	border: 1px solid black;
+	margin-left:20%;		
+}
+
+.menitem{
+	margin-top: 100px;
+	margin-left: 200px;
+}
+
+.menitem1{
+	width: 500px;
+	height: 600px;
+	border: 1px solid black;
+	margin-left:30px;
+	float:left;	
+}

@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+.topheader{
+	height: 20px;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.topheaderleft {
+	float: left;
+}
+
+.topheaderright{
+	float: right;
+	
+}
+
+.header {
+	clear: both;
+	border: 1px solid black;
+	height: 50px;
+	position: sticky;
+}
+
+.title {
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 0px;
+}
+
+.navnewitem {
+	float: left;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navwomenitem {
+	float: left;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navmenitem {
+	float: left;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navcollection {
+	float: left;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navlogin {
+	float: right;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navwish {
+	float: right;
+	margin-right: 30px;
+	margin-top:10px;
+}
+
+.navbaging {
+	float: right;
+	margin-right: 30px;
+	margin-top:10px;
+}
+.main{
+	clear:both;
+	margin-top: 40px;
+}
+.item{
+	width: 150px;
+	height: 200px;
+	float: left;
+	
+	margin-left: 20px;
+	border: 1px solid black;
+}
+
+.itemright{
+	width: 600px;
+	height: 800px;
+	float : left;
+	border: 1px solid black;
+	margin-left: 30px;
+}
+
+.itemtext{
+	position: relative;
+	margin-top: 50px;
+	padding-right: 800px;
+	bottom: 500px;
+	left: 30px;
+}
